@@ -1,4 +1,4 @@
-Repository of the paper "[Enhancing crop segmentation in satellite image time-series with transformer networks](https://www.researchgate.net/publication/379546635_Enhancing_crop_segmentation_in_satellite_image_time-series_with_transformer_networks)".
+Repository of the paper "[Enhancing crop segmentation in satellite image time-series with transformer networks](https://arxiv.org/abs/2412.01944)".
 
 ``` shell
 sudo add-apt-repository ppa:deadsnakes/ppa
